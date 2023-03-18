@@ -1,0 +1,46 @@
+*{
+  margin: 0 ;
+  padding: 0;}
+
+.main{
+  width: 100%;
+  
+  
+  background: linear-gradient( to top, rgba(0,0,0,0.2)50% , rgba(0,0,0,0.2)50% ) , url(mechb.png) ;
+  background-position: center;
+  background-size: cover;
+  height: 300px;  
+}
+
+h1{
+  color: white;
+  font-size: 5em;
+  padding-top: 70px;
+}
+
+.one{
+  background: linear-gradient( to top, rgba(0,0,0,0.7)50% , rgba(0,0,0,0.7)50% ) , url(mechbac.jpg) ;
+  padding-top: 20px;
+  background-size: cover;
+  margin: 0px 0 0px;
+  /* top: 400%;
+  left: 8%; */
+  color: white;
+  letter-spacing: 2px;
+
+}
+
+.three{
+  width: 100%;
+  
+  
+  background: linear-gradient( to top, rgba(0,0,0,0.0)50% , rgba(0,0,0,0.0)50% ) , url(mechanical.jpeg) ;
+  background-position: center;
+  background-size:contain;
+  background-repeat: no-repeat;
+  height: 170px;  
+  padding-top: 200px;
+  display: flex;
+  flex-direction: column;
+  
+}

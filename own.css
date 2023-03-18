@@ -1,0 +1,46 @@
+*{
+    margin: 0 ;
+    padding: 0;}
+
+.main{
+    width: 100%;
+    
+    
+    background: linear-gradient( to top, rgba(0,0,0,0.3)50% , rgba(0,0,0,0.3)50% ) , url(ask.png) ;
+    background-position: center;
+    background-size: cover;
+    height: 300px;  
+}
+
+h1{
+    color: white;
+    font-size: 6em;
+    padding-top: 30px;
+}
+
+.one{
+    background: linear-gradient( to top, rgba(0,0,0,0.6)50% , rgba(0,0,0,0.6)50% ) , url(vip.jpg) ;
+    /* padding-top: 300px; */
+    background-size: cover;
+    margin: 200px 0 200px;
+    color:white;
+    text-align: left;
+    letter-spacing: 2px;
+    font-size: 1.5em;
+    text-align: left;
+    
+}
+
+.now{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    color: red;
+    size: 10px;
+
+}
+
+img{
+    width: 700px;
+
+}
